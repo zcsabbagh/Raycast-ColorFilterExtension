@@ -2,6 +2,9 @@
 
 Toggle your display's color filters directly from Raycast to reduce blue light and color stimulation in the evening.
 
+![Color Filters Demo](./metadata/color-filters-demo.png)
+
+
 ## Features
 
 - Quick toggle for macOS Color Filters accessibility feature
